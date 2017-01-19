@@ -8,3 +8,10 @@
  *
  * Copyright (c) 2017 Rahulkumar Gaddam
  */
+
+@keyframes fadeIn {
+    from {  opacity: 1;
+    filter: alpha(opacity=100);}
+    to {  opacity: 0;
+    filter: alpha(opacity=0);}
+}
