@@ -1,2 +1,3 @@
 # Eggs
-This is the First version of the BlissJS
+Bliss3D is the css animation library for 3D css features.
+
