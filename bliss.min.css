@@ -1,0 +1,7 @@
+@charset "UTF-8";/*!
+ * bliss.css
+ * Version - 0.1.1
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2017 Rahulkumar Gaddam
+ */:root{--main-time:10s}@-webkit-keyframes fadeIn{from{opacity:0;filter:Alpha(opacity=0)}to{opacity:1;filter:Alpha(opacity=100)}}@keyframes fadeIn{from{opacity:0;filter:Alpha(opacity=0)}to{opacity:1;filter:Alpha(opacity=100)}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:var(--main-time);animation-duration:var(--main-time)}@-webkit-keyframes fadeOut{from{opacity:100;filter:Alpha(opacity=100)}to{opacity:0;filter:Alpha(opacity=0)}}@keyframes fadeOut{from{opacity:100;filter:Alpha(opacity=100)}to{opacity:0;filter:Alpha(opacity=0)}}.fadeOut{-webkit-animation-name:fadeOut;animation-name:fadeOut}
